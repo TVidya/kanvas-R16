@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>R15-ProdLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b981ad4-0f1d-4dfa-b536-5389a878d036</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6980b2ac-7cfe-437e-8866-7a61f32ef9ba</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aeee06b9-64f3-4568-af6e-86073ef93bcf</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ba2d854-5bc8-49cc-80f0-5a16ac2360e6</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>

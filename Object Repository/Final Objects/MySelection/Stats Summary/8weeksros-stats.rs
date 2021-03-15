@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>8weeksros-stats</name>
+   <tag></tag>
+   <elementGuidId>b132e88e-0270-455b-a192-b6f4948b1f44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@data-stat='4wkros']/following-sibling::label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@data-stat='4wkros']/following-sibling::label</value>
+   </webElementProperties>
+</WebElementEntity>

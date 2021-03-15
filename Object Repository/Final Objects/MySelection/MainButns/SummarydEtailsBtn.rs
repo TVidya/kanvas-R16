@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SummarydEtailsBtn</name>
+   <tag></tag>
+   <elementGuidId>5dcabe41-9bc8-4647-acf2-cbccb3b9c0db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;globStat&quot;)/i[@class=&quot;globstat-icon-lg-grey&quot;][count(. | //i[@class = 'globstat-icon-lg-grey']) = count(//i[@class = 'globstat-icon-lg-grey'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;globStat&quot;)/i[@class=&quot;globstat-icon-lg-grey&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>globstat-icon-lg-grey</value>
+   </webElementProperties>
+</WebElementEntity>

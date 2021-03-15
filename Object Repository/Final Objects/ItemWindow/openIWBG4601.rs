@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>openIWBG4601</name>
+   <tag></tag>
+   <elementGuidId>bf8d3cd9-9a54-4d34-a347-e09edadcac4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt = '8822d76a2c36426fbceb0c0e55dc7ce7' and @src = 'https://s3-ap-southeast-1.amazonaws.com/kanvas.media.mid/cid008/0/1542863582366318286/120.png?Signature=7Ckh%2BQhKv8AuQxQ3CbrCEaRRnd4%3D&amp;Expires=1571195704&amp;AWSAccessKeyId=AKIAIYXXQPTR5MKSF6VA']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>8822d76a2c36426fbceb0c0e55dc7ce7</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://s3-ap-southeast-1.amazonaws.com/kanvas.media.mid/cid008/0/1542863582366318286/120.png?Signature=7Ckh%2BQhKv8AuQxQ3CbrCEaRRnd4%3D&amp;Expires=1571195704&amp;AWSAccessKeyId=AKIAIYXXQPTR5MKSF6VA</value>
+   </webElementProperties>
+</WebElementEntity>

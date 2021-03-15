@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Date (Empty)_img-responsive imgGreaterThan</name>
+   <tag></tag>
+   <elementGuidId>07088dc6-6097-47e2-af9c-20f52f6df2f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt = 'ba64c0d6a0384cf9a1037e486f822efd' and @src = 'https://s3-ap-southeast-1.amazonaws.com/kanvas.media.mid/cid008/0/1542863534928220552/120.png?Signature=0Hqu9vL9m4aYPAU1Za5J1ZgwgBM%3D&amp;Expires=1563872366&amp;AWSAccessKeyId=AKIAIYXXQPTR5MKSF6VA']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='img-container']/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>crossorigin</name>
+      <type>Main</type>
+      <value>anonymous</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive imgGreaterThan</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-alt</name>
+      <type>Main</type>
+      <value>ba64c0d6a0384cf9a1037e486f822efd</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>ba64c0d6a0384cf9a1037e486f822efd</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://s3-ap-southeast-1.amazonaws.com/kanvas.media.mid/cid008/0/1542863534928220552/120.png?Signature=0Hqu9vL9m4aYPAU1Za5J1ZgwgBM%3D&amp;Expires=1563872366&amp;AWSAccessKeyId=AKIAIYXXQPTR5MKSF6VA</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;img-container&quot;)/div[@class=&quot;wraper-div PDitem ui-selectee&quot;]/a[@class=&quot;abvthumbnail&quot;]/div[@class=&quot;itemsTshirts athumbnail&quot;]/img[@class=&quot;img-responsive imgGreaterThan&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='img-container']/div/a/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BG4551'])[2]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load more'])[1]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <value>//img[@alt='ba64c0d6a0384cf9a1037e486f822efd']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div/div/div/a/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

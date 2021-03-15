@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kat18-view</name>
+   <tag></tag>
+   <elementGuidId>3cc4d703-be93-4953-9eef-c6520cfee35d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='kat18@cid08.com'])[2]/following::span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>shareayush@cid08.com</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vi-userviewcheck</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>kat18@cid08.com</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kat18@cid08.com'])[2]/following::span[3]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>outerHTML</name>
+      <type>Main</type>
+      <value>&lt;label class=&quot;radio shrusrWrkRadio&quot;>&lt;input type=&quot;radio&quot; name=&quot;shareayush@cid08.com&quot; class=&quot;vi-userviewcheck&quot; id=&quot;UserView101&quot; data-value=&quot;ayush@cid08.com&quot; value=&quot;1&quot;>&lt;span class=&quot;outer&quot;>&lt;span class=&quot;inner&quot;>&lt;/span>&lt;/span>&lt;/label></value>
+   </webElementProperties>
+</WebElementEntity>

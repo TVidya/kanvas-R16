@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>displaycriteria</name>
+   <tag></tag>
+   <elementGuidId>f3515edb-0131-4c80-8bf4-d8843cf34a27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;vi-settings-dropdown&quot;]/li[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;vi-settings-dropdown&quot;]/li[8]/a</value>
+   </webElementProperties>
+</WebElementEntity>

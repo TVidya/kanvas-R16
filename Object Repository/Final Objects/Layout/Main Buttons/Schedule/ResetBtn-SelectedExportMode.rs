@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ResetBtn-SelectedExportMode</name>
+   <tag></tag>
+   <elementGuidId>f899101f-7c8c-46c4-b521-3b87d0198fcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;s2id_exp-schedule-exportMode&quot;]/a/abbr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;s2id_exp-schedule-exportMode&quot;]/a/abbr</value>
+   </webElementProperties>
+</WebElementEntity>

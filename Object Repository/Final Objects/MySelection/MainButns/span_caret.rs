@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_caret</name>
+   <tag></tag>
+   <elementGuidId>88fb451f-be16-4984-9014-f28f52261ea3</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mySelectionWrapper&quot;)/header[1]/nav[@class=&quot;navbar navbar-fixed-top commanHeader&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;nav navbar-nav navbar-right listBtn&quot;]/li[@class=&quot;dropdown profileBox userProfile lineRight open&quot;]/a[@class=&quot;mainMenu dropdown-toggle&quot;]/span[@class=&quot;caret&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

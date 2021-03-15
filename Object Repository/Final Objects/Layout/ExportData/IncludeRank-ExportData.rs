@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>IncludeRank-ExportData</name>
+   <tag></tag>
+   <elementGuidId>63f24530-ab00-4bae-b18c-5b08e47f0803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;exportFormStl&quot;)/div[@class=&quot;row dtmplate&quot;]/div[@class=&quot;col-md-6 col-lg-6&quot;]/div[@class=&quot;row alignRowiseTemp&quot;]/div[@class=&quot;chk-div col-md-4 lblDataExp1&quot;]/label[@class=&quot;lbl_cls chkTag_lbl&quot;][count(. | //label[@for = 'expRanking']) = count(//label[@for = 'expRanking'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exportFormStl&quot;)/div[@class=&quot;row dtmplate&quot;]/div[@class=&quot;col-md-6 col-lg-6&quot;]/div[@class=&quot;row alignRowiseTemp&quot;]/div[@class=&quot;chk-div col-md-4 lblDataExp1&quot;]/label[@class=&quot;lbl_cls chkTag_lbl&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>expRanking</value>
+   </webElementProperties>
+</WebElementEntity>

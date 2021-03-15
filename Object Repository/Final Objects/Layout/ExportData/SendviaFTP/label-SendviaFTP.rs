@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label-SendviaFTP</name>
+   <tag></tag>
+   <elementGuidId>2fce8997-09cb-4923-8037-62b454336002</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mCSB_4_container&quot;)/div[@class=&quot;checkbox exp-emailScheduleALign col-md-12 col-lg-12&quot;]/form[1]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;input-group&quot;]/label[@class=&quot;radio&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Send via FTP</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>exp-emailFtpNormalSch</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>radiobtnFmtV4</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_4_container&quot;)/div[@class=&quot;checkbox exp-emailScheduleALign col-md-12 col-lg-12&quot;]/form[1]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;input-group&quot;]/label[@class=&quot;radio&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

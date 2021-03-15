@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>loadtemp</name>
+   <tag></tag>
+   <elementGuidId>6188f901-43c2-480d-81ee-4975f09c59a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src = 'https://s3-ap-southeast-1.amazonaws.com/kanvas.media.mid/cid008/5/kat64_cid008.com/template/temp-prv.png?Signature=%2F6%2B0N5ZxMUgM8j4vWhVMxkvB0ps%3D&amp;Expires=1571034374&amp;AWSAccessKeyId=AKIAIYXXQPTR5MKSF6VA']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://s3-ap-southeast-1.amazonaws.com/kanvas.media.mid/cid008/5/kat64_cid008.com/template/temp-prv.png?Signature=%2F6%2B0N5ZxMUgM8j4vWhVMxkvB0ps%3D&amp;Expires=1571034374&amp;AWSAccessKeyId=AKIAIYXXQPTR5MKSF6VA</value>
+   </webElementProperties>
+</WebElementEntity>
